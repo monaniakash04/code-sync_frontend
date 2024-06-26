@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+.scroll::-webkit-scrollbar {
+  display: none;
+}
 
 .App-logo {
   height: 40vmin;
